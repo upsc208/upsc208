@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Gihoon Kim(김기훈)!
 
 🎯 **Frontend & Backend Developer**  
+I am also Interested in AI & DevOps
 
 ---
 
