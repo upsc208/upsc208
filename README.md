@@ -24,6 +24,6 @@ I am also Interested in AI & DevOps
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
  
 
-📧 Email: upsc208@gmail.com
+📧 Email: upscman@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/%EA%B8%B0%ED%9B%88-%EA%B9%80-3059b7306/
