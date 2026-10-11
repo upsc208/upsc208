@@ -26,4 +26,3 @@ I am also interested in AI & DevOps
 ---
 
 📧 Email: upscman@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/%EA%B8%B0%ED%9B%88-%EA%B9%80-3059b7306/
